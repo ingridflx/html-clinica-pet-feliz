@@ -2,11 +2,11 @@
 
 Projeto desenvolvido para praticar HTML e CSS, com foco em estrutura de sites multipáginas e organização de conteúdo.
 
-🔗 [Acesse o site aqui](https://ingridkpf.github.io/html-clinica-pet-feliz/)
+🔗 [Acesse o site aqui](https://ingridflx.github.io/html-clinica-pet-feliz/)
 
 ---
 
-## 💡 Sobre o Projeto
+## Sobre o Projeto
 
 O *Pet Feliz* é um site fictício de uma clínica veterinária criada com o objetivo de aplicar os principais conceitos de HTML e CSS em um layout completo para desktop.
 
@@ -14,7 +14,7 @@ O projeto conta com diversas páginas interligadas, menus laterais, imagens, tab
 
 ---
 
-## 🧱 Estrutura do Projeto
+## Estrutura do Projeto
 
 - *Página Principal:* apresenta uma introdução sobre a clínica e sua proposta de cuidado com os animais.  
 - *Sobre a Clínica:* traz informações detalhadas sobre a equipe e os serviços oferecidos.  
@@ -23,7 +23,7 @@ O projeto conta com diversas páginas interligadas, menus laterais, imagens, tab
 
 ---
 
-## 🗺 Recursos Utilizados
+## Recursos Utilizados
 
 - *Navegação entre páginas (links internos)*  
 - *Menu lateral fixo*  
@@ -35,7 +35,7 @@ O projeto conta com diversas páginas interligadas, menus laterais, imagens, tab
 
 ---
 
-## 🧠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - HTML5  
 - CSS3  

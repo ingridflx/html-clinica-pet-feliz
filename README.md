@@ -1,74 +1,55 @@
-# Trilha HTML - Dio.me
-## Módulo 02 - HTML I - Conceitos Básicos
+# 🐾 Clínica Veterinária Pet Feliz
 
-Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
-- Formulários
-- Estruturação e formatação de texto
-- Mídias
-- Tabelas
+Projeto desenvolvido para praticar HTML e CSS, com foco em estrutura de sites multipáginas e organização de conteúdo.
 
-Além de outros recursos falados nas aulas!
+🔗 [Acesse o site aqui](https://ingridkpf.github.io/html-clinica-pet-feliz/)
 
-## Instruções
-1. Você deve criar um site de uma clínica médica (você escolhe a especialidade)
-2. Este site deve conter o seguinte menu de navegação:
-    - Página Principal
-    - Sobre a clínica
-    - Horário de Atendimento
-    - Contato
-3. Deve, obrigatoriamente, utilizar todas os assuntos abordados nas aulas.
+---
 
-Abaixo como cada página deve ser criada e estruturada.
+## 💡 Sobre o Projeto
 
-### Estrutura das páginas
+O *Pet Feliz* é um site fictício de uma clínica veterinária criada com o objetivo de aplicar os principais conceitos de HTML e CSS em um layout completo para desktop.
 
-Todas as páginas terão que seguir um padrão pré-definido. Como não aprendemos sobre CSS ainda, utilize o arquivo `template.html` para utilizar como base. Ele segue uma estrutura semelhante a image abaixo.
+O projeto conta com diversas páginas interligadas, menus laterais, imagens, tabelas e formulários — simulando um site real de clínica veterinária com informações institucionais e de contato.
 
-![Estrutura](https://i.stack.imgur.com/9jI6f.gif)
+---
 
-\* _No template tem algumas cores mas é apenas para melhor visualização. Fique a vontade para alterar da melhor forma._
+## 🧱 Estrutura do Projeto
 
-No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** de cada página ficará uma imagem, no **Footer** informações de contato, e o **Content** é o conteúdo de cada página.
-### Página Principal
-1. Deve ter uma imagem no **Header**.
-2. Em **Content** uma breve descrição sobre a clínica.
-3. **Menu** e **Footer** padrões em todas as páginas.
+- *Página Principal:* apresenta uma introdução sobre a clínica e sua proposta de cuidado com os animais.  
+- *Sobre a Clínica:* traz informações detalhadas sobre a equipe e os serviços oferecidos.  
+- *Horário:* exibe uma tabela com os horários de funcionamento.  
+- *Contato:* contém um formulário para envio de mensagens, simulando o contato com a clínica.
 
-### Sobre a clínica
-1. Deve ter uma imagem diferente no **Header**.
-2. Em **Content** um texto falando sobre a clínica.
-3. **Menu** e **Footer** padrões em todas as páginas.
+---
 
-### Horário de Atendimento
-1. Deve ter uma imagem diferente no **Header**.
-2. Em **Content** um pequeno texto falando sobre os serviços, e uma tabela de preços, onde cada linha é um serviço, com o preço de cada um de acordo com os dias da semana.
+## 🗺 Recursos Utilizados
 
-|Serviços |Segunda a Sexta | Sábados | Feriados |
-|---|---|---|---|
-|Clínica geral | 08h - 19h  | 08h - 14h | 08h - 14h  |
-|Psicologia | 08h - 19h  | 08h - 14h | 08h - 14h  |
-|Pediatria | 08h - 19h  | 08h - 18h | - |
-|Oftalmologia | 08h - 19h  | 08h - 18h | - |
-|||||
+- *Navegação entre páginas (links internos)*  
+- *Menu lateral fixo*  
+- *Mini mapa de localização (embed)*  
+- *Tabela de horários*  
+- *Formulário de contato com campos de texto e botões*  
+- *Mídias (imagens e ícones)*  
+- *Rodapé com informações de direitos autorais e e-mail*
 
-3. **Menu** e **Footer** padrões em todas as páginas.
+---
 
+## 🧠 Tecnologias Utilizadas
 
-### Contato
-1. Deve ter uma imagem diferente no **Header**.
-2. Em **Content** deve ter:
-    - Os telefones de contato (celular e whatsapp)
-    - Endereço completo da clínica
-    - Um Iframe com o Google Maps apontando o endereço da clínica
-    - Um formulário de contato com:
-        - Nome (type="text")
-        - E-mail (type="email")
-        - Assunto (type="text")
-        - Mensagem (textarea)
-        - Botões de envias e limpar formulário
+- HTML5  
+- CSS3  
 
-3. **Menu** e **Footer** padrões em todas as páginas.
+---
 
-Desafio está lançado! Com tudo que aprendemos no Módulo II é perfeitamente possível criar este site! 
+## 🎯 O que foi praticado
 
-Bora pra cima!
+- Estruturação de um site multipáginas com HTML.  
+- Criação de menus laterais e navegação entre seções.  
+- Inserção de tabelas e formulários.  
+- Estilização de layout com CSS.  
+- Inserção de mídias e mapa interativo.  
+- Publicação do site no GitHub Pages.
+
+---
+

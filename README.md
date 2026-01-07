@@ -10,7 +10,7 @@ Projeto desenvolvido para praticar HTML e CSS, com foco em estrutura de sites mu
 
 O *Pet Feliz* é um site fictício de uma clínica veterinária criada com o objetivo de aplicar os principais conceitos de HTML e CSS em um layout completo para desktop.
 
-O projeto conta com diversas páginas interligadas, menus laterais, imagens, tabelas e formulários — simulando um site real de clínica veterinária com informações institucionais e de contato.
+O projeto conta com diversas páginas interligadas, menus laterais, imagens, tabelas e formulários; simulando um site real de clínica veterinária com informações institucionais e de contato.
 
 ---
 
